@@ -28,7 +28,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 The Budget Tracker is deployed to Heroku and uses the MongoDB Atlas. 
 
-![Budget Tracker](./images/application.jpg)
+![Budget Tracker](./images/application.png)
 
 * The URL to the deployed application [Budget Tracker Application](https://<xxx>.herokuapp.com/) 
 
