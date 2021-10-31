@@ -30,6 +30,6 @@ The Budget Tracker is deployed to Heroku and uses the MongoDB Atlas.
 
 ![Budget Tracker](./images/application.png)
 
-* The URL to the deployed application [Budget Tracker Application](https://<xxx>.herokuapp.com/) 
+* The URL to the deployed application [Budget Tracker Application](https://lit-temple-86914.herokuapp.com/) 
 
-* The URL to the GitHub repository [Budget Tracker Code](https://github.com/nataliapost11/hw-budget-tracker/) 
+* The URL to the GitHub repository [Budget Tracker Code](https://github.com/nataliapost11/hw-pwa-budget-tracker/) 
